@@ -42,7 +42,7 @@
 <img align="center" alt="Delmiro-Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 
 </div>
-
+<br>
 
 
 <div>
