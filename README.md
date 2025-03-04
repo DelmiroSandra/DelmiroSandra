@@ -5,14 +5,30 @@
 
 ## Mastery of some languages”
 <div style="display: inline_block"><br>
-  <img align="center" alt="Delmiro-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Delmiro-PHP" height="40" width="70" src="https://th.bing.com/th/id/R.a64aa98408a0d6df8f0accb876456b7c?rik=LKOP4%2bNl%2bijnUg&pid=ImgRaw&r=0">
-  <img align="center" alt="Delmiro-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Delmiro-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Delmiro-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Delmiro-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Delmiro-java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Delmiro-MariaDB" height="40" width="40" src="https://th.bing.com/th/id/OIP.F4BWiqQjKey5G1wCUYOlewHaHZ?rs=1&pid=ImgDetMain">
+<!-- JavaScript -->
+<img align="center" alt="Delmiro-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+<!-- PHP -->
+<img align="center" alt="Delmiro-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+
+<!-- React -->
+<img align="center" alt="Delmiro-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<!-- HTML -->
+<img align="center" alt="Delmiro-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<!-- CSS -->
+<img align="center" alt="Delmiro-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<!-- C# -->
+<img align="center" alt="Delmiro-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+<!-- Java -->
+<img align="center" alt="Delmiro-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<!-- MariaDB -->
+<img align="center" alt="Delmiro-MariaDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
+
   <!-- PostgreSQL -->
 <img align="center" alt="Delmiro-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 
