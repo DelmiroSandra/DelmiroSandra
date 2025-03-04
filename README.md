@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Delmiro Sandra  
+# 👋 Hello, I'm Delmiro Sandra  
 I'm a **Web Developer** and **Software Engineer** passionate about building modern, responsive, and scalable applications. I enjoy working with frontend and backend technologies, as well as exploring UI/UX design and video editing tools.
 <br>
 
@@ -7,7 +7,7 @@ I'm a **Web Developer** and **Software Engineer** passionate about building mode
 
  <br> 
 
-## 🖥️ Web Development  
+### 🖥️ Web Development  
 <img align="center" alt="Delmiro-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
 <img align="center" alt="Delmiro-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 <img align="center" alt="Delmiro-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
@@ -16,14 +16,14 @@ I'm a **Web Developer** and **Software Engineer** passionate about building mode
 
 <br>
 
-## ⚙️ Backend Development  
+### ⚙️ Backend Development  
 <img align="center" alt="Delmiro-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
 <img align="center" alt="Delmiro-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
 <img align="center" alt="Delmiro-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
 
 <br>
 
-## 📱 Mobile Development  
+### 📱 Mobile Development  
 <img align="center" alt="Delmiro-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">  
 <img align="center" alt="Delmiro-Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">  
 
