@@ -42,6 +42,14 @@
 <img align="center" alt="Delmiro-Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 
 </div>
+
+<div>
+  ## 📊 Meu nível de conhecimento
+
+![Meu nível de conhecimento](https://raw.githubusercontent.com/DelmiroSandra/Skil/skills.svg)
+
+</div>
+
 <div>
   <a href="https://www.instagram.com/delmiro.sandra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://web.facebook.com/delmiro.sanda" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
