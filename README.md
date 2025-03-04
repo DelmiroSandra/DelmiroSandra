@@ -1,9 +1,11 @@
 ## 👋 Hello, I'm Delmiro Sandra  
-I'm a **Web Developer** and **Software Engineer** passionate about building modern, responsive, and scalable applications. I enjoy working with frontend and backend technologies, as well as exploring UI/UX design and video editing tools.  
+I'm a **Web Developer** and **Software Engineer** passionate about building modern, responsive, and scalable applications. I enjoy working with frontend and backend technologies, as well as exploring UI/UX design and video editing tools.
+<br>
 
 ## Mastery of some languages”
 <div style="display: inline_block">
----
+
+ <br> 
 
 ## 🖥️ Web Development  
 <img align="center" alt="Delmiro-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
@@ -12,38 +14,38 @@ I'm a **Web Developer** and **Software Engineer** passionate about building mode
 <img align="center" alt="Delmiro-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
 <img align="center" alt="Delmiro-Nextjs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">  
 
----
+<br>
 
 ## ⚙️ Backend Development  
 <img align="center" alt="Delmiro-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
 <img align="center" alt="Delmiro-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
 <img align="center" alt="Delmiro-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
 
----
+<br>
 
 ## 📱 Mobile Development  
 <img align="center" alt="Delmiro-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">  
 <img align="center" alt="Delmiro-Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">  
 
----
+<br>
 
-## 🎨 Design & Video Editing  
+### 🎨 Design & Video Editing  
 <img align="center" alt="Delmiro-Photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">  
 <img align="center" alt="Delmiro-Illustrator" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">  
 <img align="center" alt="Delmiro-AfterEffects" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg">  
 <img align="center" alt="Delmiro-Premiere" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">  
 
----
+<br>
 
-## 🗄️ Database Management  
+### 🗄️ Database Management  
 <img align="center" alt="Delmiro-MariaDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">  
 <img align="center" alt="Delmiro-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
 
----
+<br>
 
 </div>
 
-## Contacts”
+### Contacts
 
 <div>
   <a href="https://www.instagram.com/delmiro.sandra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
