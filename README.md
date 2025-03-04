@@ -43,12 +43,7 @@
 
 </div>
 
-<div>
-  ## 📊 Meu nível de conhecimento
 
-![Meu nível de conhecimento](https://raw.githubusercontent.com/DelmiroSandra/Skil/skills.svg)
-
-</div>
 
 <div>
   <a href="https://www.instagram.com/delmiro.sandra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
