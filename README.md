@@ -46,6 +46,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelmiroSandra&layout=compact&langs_count=12&theme=radical)
 
+![Delmiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DelmiroSandra&show_icons=true&theme=radical)
 
   <a href="https://www.instagram.com/delmiro.sandra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://web.facebook.com/delmiro.sanda" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
