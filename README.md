@@ -13,6 +13,18 @@
   <img align="center" alt="Delmiro-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Delmiro-java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Delmiro-MariaDB" height="40" width="40" src="https://th.bing.com/th/id/OIP.F4BWiqQjKey5G1wCUYOlewHaHZ?rs=1&pid=ImgDetMain">
+  <!-- PostgreSQL -->
+<img align="center" alt="Delmiro-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
+<!-- Next.js -->
+<img align="center" alt="Delmiro-Nextjs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+
+<!-- Kotlin -->
+<img align="center" alt="Delmiro-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+
+<!-- Flutter -->
+<img align="center" alt="Delmiro-Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+
 </div>
 
 ## Contact
