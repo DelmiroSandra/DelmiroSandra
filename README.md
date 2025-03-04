@@ -1,18 +1,17 @@
-## Hi, I’m @DelmiroSandra
-
-
-
+## 👋 Hello, I'm Delmiro Sandra  
+I'm a **Web Developer** and **Software Engineer** passionate about building modern, responsive, and scalable applications. I enjoy working with frontend and backend technologies, as well as exploring UI/UX design and video editing tools.  
 
 ## Mastery of some languages”
 <div style="display: inline_block">
-  
+---
+
 ## 🖥️ Web Development  
 <img align="center" alt="Delmiro-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
 <img align="center" alt="Delmiro-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 <img align="center" alt="Delmiro-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
 <img align="center" alt="Delmiro-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
 <img align="center" alt="Delmiro-Nextjs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">  
-  
+
 ---
 
 ## ⚙️ Backend Development  
@@ -28,15 +27,21 @@
 
 ---
 
+## 🎨 Design & Video Editing  
+<img align="center" alt="Delmiro-Photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">  
+<img align="center" alt="Delmiro-Illustrator" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">  
+<img align="center" alt="Delmiro-AfterEffects" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg">  
+<img align="center" alt="Delmiro-Premiere" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">  
+
+---
+
 ## 🗄️ Database Management  
 <img align="center" alt="Delmiro-MariaDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">  
 <img align="center" alt="Delmiro-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
 
 ---
 
-
 </div>
-<br>
 
 ## Contacts”
 
