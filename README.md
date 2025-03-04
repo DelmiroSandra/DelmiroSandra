@@ -15,6 +15,7 @@ I'm a **Web Developer** and **Software Engineer** passionate about building mode
 <img align="center" alt="Delmiro-Nextjs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">  
 
 <br>
+<br>
 
 ### ⚙️ Backend Development  
 <img align="center" alt="Delmiro-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
@@ -22,11 +23,13 @@ I'm a **Web Developer** and **Software Engineer** passionate about building mode
 <img align="center" alt="Delmiro-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
 
 <br>
+<br>
 
 ### 📱 Mobile Development  
 <img align="center" alt="Delmiro-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">  
 <img align="center" alt="Delmiro-Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">  
 
+<br>
 <br>
 
 ### 🎨 Design & Video Editing  
@@ -36,11 +39,13 @@ I'm a **Web Developer** and **Software Engineer** passionate about building mode
 <img align="center" alt="Delmiro-Premiere" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">  
 
 <br>
+<br>
 
 ### 🗄️ Database Management  
 <img align="center" alt="Delmiro-MariaDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">  
 <img align="center" alt="Delmiro-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
 
+<br>
 <br>
 
 </div>
