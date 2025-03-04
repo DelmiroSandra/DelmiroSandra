@@ -43,47 +43,7 @@
 
 </div>
 <div>
-  <details>
-  <summary>📊 Meu nível de conhecimento</summary>
-  
-  <p><strong>JavaScript</strong></p>
-  <progress value="85" max="100"></progress> 85%
-
-  <p><strong>PHP</strong></p>
-  <progress value="80" max="100"></progress> 80%
-
-  <p><strong>React</strong></p>
-  <progress value="75" max="100"></progress> 75%
-
-  <p><strong>HTML</strong></p>
-  <progress value="90" max="100"></progress> 90%
-
-  <p><strong>CSS</strong></p>
-  <progress value="85" max="100"></progress> 85%
-
-  <p><strong>C#</strong></p>
-  <progress value="70" max="100"></progress> 70%
-
-  <p><strong>Java</strong></p>
-  <progress value="80" max="100"></progress> 80%
-
-  <p><strong>MariaDB</strong></p>
-  <progress value="75" max="100"></progress> 75%
-
-  <p><strong>PostgreSQL</strong></p>
-  <progress value="80" max="100"></progress> 80%
-
-  <p><strong>Next.js</strong></p>
-  <progress value="70" max="100"></progress> 70%
-
-  <p><strong>Kotlin</strong></p>
-  <progress value="65" max="100"></progress> 65%
-
-  <p><strong>Flutter</strong></p>
-  <progress value="60" max="100"></progress> 60%
-</details>
-</div>
-## Contact
+  ![Delmiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DelmiroSandra&show_icons=true&theme=radical)
 <div> 
 
   <a href="https://www.instagram.com/delmiro.sandra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
