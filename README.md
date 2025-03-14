@@ -21,6 +21,7 @@ I'm a **Web Developer** and **Software Engineer** passionate about building mode
 <img align="center" alt="Delmiro-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
 <img align="center" alt="Delmiro-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
 <img align="center" alt="Delmiro-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
+<img align="center" alt="Delmiro-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 
 <br>
 <br>
